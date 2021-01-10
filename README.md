@@ -1,5 +1,3 @@
-# colab
-
 # Collaboratory : Analisando dados do ENEM SC - Mesorregião Serrana | Microrregião de Curitibanos
 
 Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos.
