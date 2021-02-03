@@ -1,6 +1,6 @@
 # Collaboratory : Analisando dados da Educação SC - Mesorregião Serrana | Microrregião de Curitibanos
 
-Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos. Olhando também para os docentes e turmas usando dados do INEP dos censos escolares . 
+Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos. Olhando também para os docentes suas escolaridades,especializações e idade, também para as turmas usando dados do INEP dos censos escolares . 
 
 Este é o código fonte usado para filtrar os dados, ficando apenas com o estado de Santa Catarina, para que pudesse depois filtrar pela região que iremos analisar.
 
