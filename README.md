@@ -1,6 +1,6 @@
-# Collaboratory : Analisando dados do ENEM SC - Mesorregião Serrana | Microrregião de Curitibanos
+# Collaboratory : Analisando dados da Educação SC - Mesorregião Serrana | Microrregião de Curitibanos
 
-Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos.
+Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos. Olhando também para os docentes e turmas usando dados do INEP dos censos escolares . 
 
 Este é o código fonte usado para filtrar os dados, ficando apenas com o estado de Santa Catarina, para que pudesse depois filtrar pela região que iremos analisar.
 
@@ -8,4 +8,4 @@ Este é o código fonte usado para filtrar os dados, ficando apenas com o estado
 
 Análise de dados : 
 
-[Analisando_Dados_da_Educação_ENEM_SC_Mesorregião_Serrana_|_Microrregião_de_Curitibanos.ipynb](/Analisando_Dados_da_Educação_ENEM_SC_Mesorregião_Serrana_|_Microrregião_de_Curitibanos.ipynb)
+[Analisando_Dados_da_Educação_SC_Mesorregião_Serrana_|_Microrregião_de_Curitibanos.ipynb](/Analisando_Dados_da_Educação_SC_Mesorregião_Serrana_|_Microrregião_de_Curitibanos.ipynb)
