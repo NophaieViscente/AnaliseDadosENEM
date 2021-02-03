@@ -2,7 +2,7 @@
 
 Este estudo foi feito, para pudessemos visualizar como é o desempenho de quem tem melhor padrão de vida em relação aos menos favorecidos. Olhando também para os docentes suas escolaridades,especializações e idade, também para as turmas usando dados do INEP dos censos escolares . 
 
-Este é o código fonte usado para filtrar os dados, ficando apenas com o estado de Santa Catarina, para que pudesse depois filtrar pela região que iremos analisar.
+Este é o código fonte usado para filtrar os dados do ENEM, ficando apenas com o estado de Santa Catarina, para que pudesse depois filtrar pela região que iremos analisar.
 
 [Filtrando_Dados_do_ENEM_por_Estado_com_Chunk.ipynb](/Filtrando_Dados_do_ENEM_por_Estado_com_Chunk.ipynb)
 
