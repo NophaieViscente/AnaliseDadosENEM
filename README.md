@@ -10,6 +10,9 @@ Criando um único dataset com os dados dos anos de 2015 a 2019 já filtrados pel
 
 [Filtrando_dados_e_criando_um_único_dataset_com_os_dados_ENEM_SC_dos_anos_de_2015_a_2019.ipynb](/Filtrando_dados_e_criando_um_único_dataset_com_os_dados_ENEM_SC_dos_anos_de_2015_a_2019.ipynb)
 
+Filtrando dados ENEM SC por microrregião, Microrregião de Curitibanos : 
+[Filtrando_dados_do_ENEM_por_microrregião_Microrregião_de_Curitibanos_SC_|_Anos_2015_a_2019.ipynb](/Filtrando_dados_do_ENEM_por_microrregião_Microrregião_de_Curitibanos_SC_|_Anos_2015_a_2019.ipynb)
+
 Análise de dados : 
 
 [Analisando_Dados_da_Educação_Mesorregião_Serrana_|_Microrregião_de_Curitibanos_SC_|_Anos_2015_a_2019.ipynb](/Analisando_Dados_da_Educação_Mesorregião_Serrana_|_Microrregião_de_Curitibanos_SC_|_Anos_2015_a_2019.ipynb)
