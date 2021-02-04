@@ -1,4 +1,4 @@
-# Collaboratory : Analisando dados da Educação SC - Mesorregião Serrana | Microrregião de Curitibanos
+# Collaboratory : Analisando dados da Educação SC - Mesorregião Serrana | Microrregião de Curitibanos 
 
 Este estudo foi feito, para pudessemos visualizar como é o desempenho no ENEM de quem tem melhor padrão de vida em relação aos menos favorecidos. Olhando também para os docentes suas escolaridades,especializações e idade, também para as turmas e matriculas usando dados do INEP dos censos escolares de 2016 a 2019 . 
 
